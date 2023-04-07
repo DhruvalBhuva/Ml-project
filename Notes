@@ -1,0 +1,34 @@
+==> Machine learning types:
+1) Supervised learning:
+   - Classification: For binary predication (i.e: Yes/ No)
+   - Regresion: For continues prediction (i.e: Temprature, sale predictioin)
+   				- Requied continues data over the axis
+
+2) Unsupervised learning:
+   - Clustering
+   - Association
+
+3) Reinforcement lerning
+
+==> Supervised Algo:
+   - Logistic Regression
+   - Decision Tree
+   - KNN
+
+
+
+==> Logistic Regrssion: (https://www.youtube.com/watch?v=XnOAdxOWXWg&list=PLEiEAq2VkUULNa6MHQAZSOBxzB6HHFXj4&index=2)
+   - Threshold Value: After it more likey result
+   - S curve ( sigmoid curve )
+   - Used: i) Weather prediction :> - Is today rain or not
+   								 - Is today sunny or not
+   		   ii) Image classifiaction:> For it if there are multiple lables then need to change as, "is it dog or not, is it cat or not"
+   		  iii) Number classification:  
+
+==> Checking Accuracy:
+  1) Confusion Matrix:
+    - Used for classification algo
+    - Diagonaly value are usefull, it shows correct prediction
+  2) Mean square error:
+    - 
+    -
